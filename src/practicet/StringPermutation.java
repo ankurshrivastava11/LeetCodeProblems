@@ -5,13 +5,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
-/**
- * Date 01/29/2016
- * @author Tushar Roy
- *
- * Generate all permutations of string in lexicographically sorted order where repetitions of
- * character is possible in string.
- */
 public class StringPermutation {
 
     public List<String> permute(char input[]) {
