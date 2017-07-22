@@ -17,7 +17,6 @@ public static int removeDuplicate(int[] nums) {
     }
 public static void main(String args[])
 {
-
 	int[] a =  {1,1,2};
 	int res = removeDuplicate(a);
 	System.out.println(res);
